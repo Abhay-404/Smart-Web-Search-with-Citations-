@@ -60,3 +60,7 @@ AI-powered web search application that provides comprehensive answers to your qu
 - `ipython-autotime`
 - `markdown2`
 
+## Things to Do :
+1. Implement Reranker for Better Search Result Prioritization
+2. Caching Queries and Summaries
+3. Maybe try to build deep research agent??
